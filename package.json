@@ -6,12 +6,12 @@
   "unity": "2019.1",
   "unityRelease": "0b5",
   "type": "library",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "repository": {
     "url" : "https://github.com/BelicusBr/com.cobilas.cobilascore.git",
     "type" : "git"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
   },
   "relatedPackages": {
     "com.cobilas.cobilascore": "1.0.0"
