@@ -1,0 +1,9 @@
+{
+  "name": "com.cobilas.cobilascore",
+  "version": "1.0.0",
+  "displayName": "Cobilas Core",
+  "description": "Pacote de montadoras pre-compiladas para unity3d",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "type": "library"
+}
