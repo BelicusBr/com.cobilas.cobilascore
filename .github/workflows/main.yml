@@ -1,8 +1,8 @@
 name: packager build
 
 on:
-  push:
-    branches: [ "release/*" ]
+  release:
+    types: [published]
 jobs:
   build-com_cobilas_cobilascore:
     runs-on: ubuntu-latest
