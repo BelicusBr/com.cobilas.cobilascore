@@ -1,3 +1,4 @@
+$ npm publish
 {
   "name": "com.cobilas.cobilascore",
   "version": "1.0.0",
