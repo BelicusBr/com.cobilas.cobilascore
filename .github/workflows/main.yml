@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
 jobs:
-  build:
+  build-com_cobilas_cobilascore:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -15,5 +15,3 @@ jobs:
           scope: '@BelicusBr'
       - run: npm install
       - run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
