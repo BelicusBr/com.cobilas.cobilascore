@@ -1,5 +1,3 @@
-> npm init --yes
-Wrote to /BelicusBr/com.cobilas.cobilascore/package.json:
 {
   "name": "com.cobilas.cobilascore",
   "version": "1.0.0",
