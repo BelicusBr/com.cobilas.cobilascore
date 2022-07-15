@@ -17,5 +17,6 @@ Wrote to /BelicusBr/com.cobilas.cobilascore/package.json:
   },
   "relatedPackages": {
     "com.cobilas.cobilascore": "1.0.0"
-  }
+  },
+  "homepage" : "https://github.com/BelicusBr/com.cobilas.cobilascore"
 }
