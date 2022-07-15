@@ -7,7 +7,7 @@
   "unityRelease": "0b5",
   "type": "library",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com@BelicusBr"
   },
   "repository": {
     "url" : "https://github.com/BelicusBr/com.cobilas.cobilascore.git",
@@ -15,6 +15,5 @@
   },
   "relatedPackages": {
     "com.cobilas.cobilascore": "1.0.0"
-  },
-  "homepage" : "https://github.com/BelicusBr/com.cobilas.cobilascore"
+  }
 }
