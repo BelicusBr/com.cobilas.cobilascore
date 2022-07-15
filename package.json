@@ -11,7 +11,7 @@
     "type" : "git"
   },
   "publishConfig" : {
-    "registry": "https://github.com/BelicusBr/com.cobilas.cobilascore.git"
+    "registry": "git://github.com/BelicusBr/com.cobilas.cobilascore"
   },
   "relatedPackages": {
     "com.cobilas.cobilascore": "1.0.0"
