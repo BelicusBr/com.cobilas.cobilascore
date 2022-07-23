@@ -1,5 +1,6 @@
-#Changelog
+# Changelog
 ## [1.0.30] - 23/07/2022
+- Fix CHANGELOG.md
 - Add CHANGELOG.md
 - Fix package.json
 - Add tag [1.0.30]
