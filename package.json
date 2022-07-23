@@ -4,19 +4,18 @@
   "displayName": "Cobilas Core",
   "description": "Pacote de montadoras pre-compiladas para unity3d",
   "documentationUrl": "https://github.com/BelicusBr/com.cobilas.cobilascore.wiki.git",
+  "licensesUrl": "https://github.com/BelicusBr/com.cobilas.cobilascore/blob/main/LICENSE.md",
+  "changelogUrl": "https://github.com/BelicusBr/com.cobilas.cobilascore/blob/main/CHANGELOG.md"
   "unity": "2019.1",
   "unityRelease": "0b5",
   "type": "library",
-  
   "author": {
     "name": "Cobilas CTB"
   },
-  
   "repository": {
-    "url" : "https://github.com/BelicusBr/com.cobilas.cobilascore.git",
-    "type" : "git"
+    "url": "https://github.com/BelicusBr/com.cobilas.cobilascore.git",
+    "type": "git"
   },
-  
   "relatedPackages": {
     "com.cobilas.cobilascore": "1.0.0"
   }
