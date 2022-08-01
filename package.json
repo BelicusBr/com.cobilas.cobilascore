@@ -1,6 +1,6 @@
 {
   "name": "com.cobilas.cobilascore",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "displayName": "Cobilas Core",
   "description": "Pacote de montadoras pre-compiladas para unity3d",
   "documentationUrl": "https://github.com/BelicusBr/com.cobilas.cobilascore.wiki.git",
@@ -17,6 +17,6 @@
     "type": "git"
   },
   "relatedPackages": {
-    "com.cobilas.cobilascore": "1.0.30"
+    "com.cobilas.cobilascore": "1.0.31"
   }
 }

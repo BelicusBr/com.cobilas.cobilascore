@@ -1,4 +1,8 @@
 # Changelog
+## [1.0.31] - 31/07/2022
+- Fix CHANGELOG.md
+- Fix package.json
+- Add Cobilas Core.asset
 ## [1.0.30] - 23/07/2022
 - Add CHANGELOG.md
 - Fix package.json
