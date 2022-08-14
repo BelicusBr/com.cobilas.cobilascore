@@ -1,4 +1,9 @@
 # Changelog
+## [1.0.32] - 13/08/2022
+- Change Cobilas Core.asset
+- Change Runtime\Cobilas.IO.Alf.Alfbt.dll
+- Change Runtime\Cobilas.IO.Alf.Management.Alfbt.dll
+- Change Runtime\CobilasCore.dll
 ## [1.0.31] - 31/07/2022
 - Fix CHANGELOG.md
 - Fix package.json
